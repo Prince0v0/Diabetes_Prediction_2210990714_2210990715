@@ -2,8 +2,8 @@
 
 **Type:** Research  
 **Team Members:**  
-- Roll No 231234 – Name 1  
-- Roll No 231235 – Name 2  
+- Roll No 2210990714 – Ramandeep Singh  
+- Roll No 2210990715 – Raninder Singh
 
 **Project Status:** Completed (IPR submitted)
 
